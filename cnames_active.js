@@ -918,6 +918,7 @@ var cnames_active = {
   "drop": "dt-is-not-available.github.io/drop",
   "drr": "xyligan-gp.github.io/discord-reactions-roles",
   "dthings": "hosting.gitbook.io", // noCF
+  'driftingpixels": "https://driftingpixels.github.io/driftai/"
   "dtune": "rotekoppen.github.io/dtune",
   "du": "ruanyl.github.io/du", // noCF? (don´t add this in a new PR)
   "dualcyclone": "dualcyclone.github.io/postit-todo-react-redux",
